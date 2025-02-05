@@ -212,7 +212,8 @@ nav{
     transition: transform 0.3s ease;
 }
 .Featured_Games img:hover{
-    transform: scale(1.1); 
+    transform: scale(1.05); 
+    transition: transform 0.3s ease;
 }
 /* games******************************************************************************************************* */
 .games{
@@ -244,6 +245,8 @@ nav{
     justify-content: center;
     align-items: center;
 }
+
+
 #Sub_div{
     width: 600px;
     height: auto;
